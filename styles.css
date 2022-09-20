@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&family=Titillium+Web:wght@200&display=swap');
+
+
+body{
+    font-family: 'Concert One', cursive;  
+    background-color: #F7E2E2; 
+    
+}
+
+.titulo{
+    padding-top:  30px;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#cantidad{
+    text-align: center;
+    font-size: 32px;
+    color:#9932cc;
+}
+
+#botones{
+    padding-top:  10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.botones-control{ 
+    background-color: #61A4BC; 
+    font-family: 'Concert One', cursive;  
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+}
